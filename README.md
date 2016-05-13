@@ -2,7 +2,7 @@
 
 ![Almatoolbox Logo](http://logoshabm.tmdb.de/240/015095847.JPG "Almatoolbox Logo")
 
-A collection of extensions for the RedHat Openshift Platform
+A **Team Foundation Server 2015 on-prem** collection of extensions for the RedHat Openshift Platform.
 
 # Contents
 The extension consists in a set of tasks for managing images life cycle on Openshift platform: for each task, you'll need to specify connection parameters.
